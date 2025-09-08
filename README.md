@@ -27,4 +27,4 @@
 ## 🌐 Onde me encontrar  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrospoladore/)  
-[![VitrineDev](https://img.shields.io/badge/VitrineDev-FF5722?style=for-the-badge&logo=alura&logoColor=white)](https://www.alura.com.br/vitrinedev)  
+[![VitrineDev](https://img.shields.io/badge/VitrineDev-FF5722?style=for-the-badge&logo=alura&logoColor=white)](https://cursos.alura.com.br/vitrinedev/leo-spoladore)  
