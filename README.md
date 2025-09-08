@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Leandro  
 
-<!--
-**leandrospoladore/leandrospoladore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Em transição de carreira para **tecnologia**, com foco em **desenvolvimento mobile**  
+📚 Atualmente estudando na [Alura](https://www.alura.com.br/)  
+⚙️ Experiência com implantação de sistemas ERP, utilizando **Java** e **PostgreSQL**  
+🚀 Em busca da minha primeira oportunidade como desenvolvedor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrospoladore&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrospoladore&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Onde me encontrar  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrospoladore/)  
+[![VitrineDev](https://img.shields.io/badge/VitrineDev-FF5722?style=for-the-badge&logo=alura&logoColor=white)](https://www.alura.com.br/vitrinedev)  
