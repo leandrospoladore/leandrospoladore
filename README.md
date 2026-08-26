@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Leandro  
 
-💻 Em transição de carreira para **tecnologia**, com foco em **desenvolvimento mobile**  
-📚 Atualmente estudando na [Alura](https://www.alura.com.br/)  
+💻 Em transição de carreira para **tecnologia**.
+📚 Atualmente estudando na [Alura](https://www.alura.com.br/)  e [Udemy](https://www.udemy.com.br/) 
 ⚙️ Experiência com implantação de sistemas ERP, utilizando **Java** e **PostgreSQL**  
 🚀 Em busca da minha primeira oportunidade como desenvolvedor  
 
