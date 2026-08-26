@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Leandro  
 
-💻 Em transição de carreira para **tecnologia**
-📚 Atualmente estudando na [Alura](https://www.alura.com.br/)  e [Udemy](https://www.udemy.com.br/) 
+💻 Em transição de carreira para **tecnologia**  
+📚 Atualmente estudando na [Alura](https://www.alura.com.br/) e [Udemy](https://www.udemy.com.br/)  
 ⚙️ Experiência com implantação de sistemas ERP, utilizando **Java** e **PostgreSQL**  
 🚀 Em busca da minha primeira oportunidade como desenvolvedor  
 
@@ -33,8 +33,8 @@
 
 # 👋 Hi, I'm Leandro  
 
-💻 Career transition into **technology**, focusing on **mobile development**  
-📚 Currently studying at [Alura](https://www.alura.com.br/)  
+💻 Career transition into **technology**  
+📚 Currently studying at [Alura](https://www.alura.com.br/) and [Udemy](https://www.udemy.com.br/)  
 ⚙️ Professional experience with ERP implementation, using **Java** and **PostgreSQL**  
 🚀 Looking for my first opportunity as a developer to apply knowledge and grow in practice  
 
